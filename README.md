@@ -1,3 +1,3 @@
 # Netflix
 
-This analysis help
+This analysis help to get information
